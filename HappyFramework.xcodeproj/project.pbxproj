@@ -17,7 +17,6 @@
 		68F5CC0933B2810242740E6C /* Pods-HappyFramework.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HappyFramework.debug.xcconfig"; path = "Target Support Files/Pods-HappyFramework/Pods-HappyFramework.debug.xcconfig"; sourceTree = "<group>"; };
 		AED7F24B248D571200546CC3 /* HappyFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HappyFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AED7F24E248D571200546CC3 /* HappyFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HappyFramework.h; sourceTree = "<group>"; };
-		AED7F24F248D571200546CC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AED7F256248D571A00546CC3 /* Service.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
 		D7DD7AF1F5D3CC5064C19D34 /* Pods-HappyFramework.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HappyFramework.release.xcconfig"; path = "Target Support Files/Pods-HappyFramework/Pods-HappyFramework.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -40,7 +39,6 @@
 				68F5CC0933B2810242740E6C /* Pods-HappyFramework.debug.xcconfig */,
 				D7DD7AF1F5D3CC5064C19D34 /* Pods-HappyFramework.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -75,7 +73,6 @@
 			children = (
 				AED7F256248D571A00546CC3 /* Service.swift */,
 				AED7F24E248D571200546CC3 /* HappyFramework.h */,
-				AED7F24F248D571200546CC3 /* Info.plist */,
 			);
 			path = HappyFramework;
 			sourceTree = "<group>";
