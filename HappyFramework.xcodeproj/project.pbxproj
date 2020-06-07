@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		AED7F250248D571200546CC3 /* HappyFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = AED7F24E248D571200546CC3 /* HappyFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AED7F257248D571A00546CC3 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED7F256248D571A00546CC3 /* Service.swift */; };
-		AED7F259248D5C2200546CC3 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AED7F258248D5C2200546CC3 /* Info.plist */; };
 		F8D76573C1349F7374B08FA9 /* Pods_HappyFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5C7DFBB7867F03210FEDD978 /* Pods_HappyFramework.framework */; };
 /* End PBXBuildFile section */
 
@@ -151,7 +150,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AED7F259248D5C2200546CC3 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
