@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		AED7F250248D571200546CC3 /* HappyFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = AED7F24E248D571200546CC3 /* HappyFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AED7F257248D571A00546CC3 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED7F256248D571A00546CC3 /* Service.swift */; };
+		AED7F259248D5C2200546CC3 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AED7F258248D5C2200546CC3 /* Info.plist */; };
 		F8D76573C1349F7374B08FA9 /* Pods_HappyFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5C7DFBB7867F03210FEDD978 /* Pods_HappyFramework.framework */; };
 /* End PBXBuildFile section */
 
@@ -18,6 +19,7 @@
 		AED7F24B248D571200546CC3 /* HappyFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HappyFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AED7F24E248D571200546CC3 /* HappyFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HappyFramework.h; sourceTree = "<group>"; };
 		AED7F256248D571A00546CC3 /* Service.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
+		AED7F258248D5C2200546CC3 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ../../../.Trash/Info.plist; sourceTree = "<group>"; };
 		D7DD7AF1F5D3CC5064C19D34 /* Pods-HappyFramework.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HappyFramework.release.xcconfig"; path = "Target Support Files/Pods-HappyFramework/Pods-HappyFramework.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -72,6 +74,7 @@
 			isa = PBXGroup;
 			children = (
 				AED7F256248D571A00546CC3 /* Service.swift */,
+				AED7F258248D5C2200546CC3 /* Info.plist */,
 				AED7F24E248D571200546CC3 /* HappyFramework.h */,
 			);
 			path = HappyFramework;
@@ -148,6 +151,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AED7F259248D5C2200546CC3 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
